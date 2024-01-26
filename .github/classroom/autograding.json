@@ -1,8 +1,8 @@
 {
   "tests": [
     {
-      "name": "regression_test.py",
-      "run": "pytest regression_test.py",
+      "name": "multiclass_model_test.py",
+      "run": "pytest multiclass_model_test.py",
       "input": "",
       "output": "",
       "comparison": "exact",
